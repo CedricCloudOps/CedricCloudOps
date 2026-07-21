@@ -22,19 +22,9 @@ by CI/CD — and **documented so that someone else can operate them at 3 a.m.**
 
 Most of my time goes to **Linux**, **Docker** and **Kubernetes**, with **PostgreSQL**,
 **Redis** and **Nginx** underneath, **Prometheus / Grafana / Loki** on top, and
-**Ansible**, **Terraform** and **GitHub Actions** to make it all reproducible.
-
-On the network side, I'm **CCNA-certified**: routing, switching, VLANs, firewalling
-and packet-level troubleshooting — the layer where a lot of "application" problems
-actually turn out to live.
-
-On the security side, I harden what I deploy: **SSH lockdown, UFW, fail2ban** and
-sysctl on the hosts; **TLS everywhere**, no plaintext secrets, **container image
-scanning (Trivy)** in CI, and an **antivirus pipeline** on user uploads. I also work
-with **Wazuh** for log collection and detection.
-
-I like the unglamorous parts: backups that restore, runbooks that are actually used,
-and incidents that get written up afterwards.
+**Ansible**, **Terraform** and **GitHub Actions** to make it all reproducible. I like
+the unglamorous parts: backups that restore, runbooks that are actually used, and
+incidents that get written up afterwards.
 
 ### Tech stack
 
