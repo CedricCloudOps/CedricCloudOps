@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Linux%20%7C%20Networking%20%7C%20Containers%20%7C%20Security-1A7AD7">
-  <img src="https://img.shields.io/badge/Certified-AZ--104%20%7C%20CCNA%20%7C%20Fortinet%20%7C%20Huawei%20NE%20%7C%20COBIT%202019-2ea44f">
-  <img src="https://img.shields.io/badge/Training-ITIL%20v4%20%7C%20Security%2B%20%7C%20ISC2%20CC%20%7C%20ISO%2027001%20LI-0a7c6b">
+  <img src="https://img.shields.io/badge/Focus-Linux%20%7C%20Containers%20%7C%20Automation-1A7AD7">
+  <img src="https://img.shields.io/badge/Certified-AZ--104%20%7C%20CCNA-2ea44f">
   <img src="https://img.shields.io/badge/Languages-French%20(native)%20%7C%20English%20(B2)-blueviolet">
 </p>
 
