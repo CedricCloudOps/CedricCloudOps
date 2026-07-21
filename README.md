@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Linux%20%7C%20Containers%20%7C%20Automation-1A7AD7">
-  <img src="https://img.shields.io/badge/Certified-AZ--104%20%7C%20CCNA-2ea44f">
+  <img src="https://img.shields.io/badge/Certified-AZ--104%20%7C%20CCNA%20%7C%20Fortinet%20%7C%20Huawei%20NE%20%7C%20COBIT%202019-2ea44f">
   <img src="https://img.shields.io/badge/Languages-French%20(native)%20%7C%20English%20(B2)-blueviolet">
 </p>
 
@@ -15,9 +15,13 @@
 
 ### About
 
-Systems and operations engineer. I build platforms that keep running: containerized
-services behind a reverse proxy, watched through metrics, logs and alerts, deployed
-by CI/CD — and **documented so that someone else can operate them at 3 a.m.**
+Systems and operations engineer with **5+ years running critical infrastructure —
+data center, servers, storage and networks — across telecom and government
+environments.**
+
+I build platforms that keep running: containerized services behind a reverse proxy,
+watched through metrics, logs and alerts, deployed by CI/CD — and **documented so
+that someone else can operate them at 3 a.m.**
 
 Most of my time goes to **Linux**, **Docker** and **Kubernetes**, with **PostgreSQL**,
 **Redis** and **Nginx** underneath, **Prometheus / Grafana / Loki** on top, and
